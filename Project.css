@@ -1,0 +1,25 @@
+.greeting h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 100px;
+    text-align: center;
+  }
+  
+  .greeting{
+    border-width:4px;
+  }
+  
+  .cardNumberError{
+    border-color:red
+  }
+  
+  .cardNumberSuccess{
+    border-color:green
+  }
+  
+  .cardTypeIcon {
+    background: url("https://www.shutterstock.com/image-photo/kiev-ukraine-april-08-2015-260nw-267937022.jpg") no-repeat right;
+    background-size: 25px;
+  }
+  
+  
